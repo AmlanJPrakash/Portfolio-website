@@ -4,12 +4,12 @@ import React from 'react';
 import SectionHeading from './section-heading';
 import { projectsData } from '@/lib/data';
 import Project from './projects';
-import { useSectionInView } from '@/lib/hook';
+import { useSectionInview } from '@/lib/hook';
 
 
 
 export default function Projects() {
-  const { ref } = useSectionInView("Projects",0.5);
+  const { ref } = useSectionInview("Projects",0.5);
 
   return (
     <section 
