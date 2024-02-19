@@ -66,7 +66,6 @@ export default function Intro() {
         <span className='font-bold'>Hello Amlan here!</span> I'm currently a <span className='font-bold'>student </span>
            at SIT, Bhubaneswar.
         I'm primarily interested in <span className='font-bold'>UI/UX design.</span>
-        Technology excites me and I am always in awe of the <span className='italic'>change it drives in the world.</span> 
         </motion.p>
 
         <motion.div className='flex flex-col sm:flex-row items-center justify-center gap-2 px-4 

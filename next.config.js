@@ -5,12 +5,12 @@ const nextConfig = {
             {
                 protocol:"https",
                 hostname:"media.licdn.com",
-            }
-        ]
+            },
+        ],
     },
     experimental: {
         serverActions: true,
-    }
-}
+    },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
