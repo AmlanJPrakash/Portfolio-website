@@ -2,9 +2,11 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
+import myportfolioImg from "@/public/myportfolio.png";
+import ecommerceImg from "@/public/ecommerce.png";
+import amazoncloneImg from "@/public/amazonclone.png"
 
 export const links = [
   {
@@ -36,7 +38,7 @@ export const links = [
 export const experiencesData = [
   {
     title: "UI/UX Intern",
-    location: "DLF,Bbsr",
+    location: "SQUBIX DIGITAL,Bbsr",
     description: "expert in figma, wireframing, prototyping, micro interaction ",
     icon: React.createElement(LuGraduationCap),
     date: "2024",
@@ -54,50 +56,55 @@ export const experiencesData = [
     description: "Knowlwdge about Penetration testing, firewalls & encryption, basic cybersecurity tools and software. ",
     icon: React.createElement(CgWorkAlt),
     date: "2022",
+  },
+  {
+    title: "Python",
+    location: "Silicon,Bbsr",
+    description: "Developed a comprehensive Employee Management System (EMS) using Python ",
+    icon: React.createElement(CgWorkAlt),
+    date: "2021",
   }
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Portfolio",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+      "A fully responsive portfolio made using React and Node.js , Tailwind CSS framework and framer motion library.",
+    tags: ["React", "Next.js", "Tailwind", "TypeScript", "Framer"],
+    imageUrl: myportfolioImg,
   },
   {
-    title: "rmtDev",
+    title: "Figma",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+      "Design a e-commerce UI/UX design using figma . A prototype with micro-interaction and animation. ",
+    tags: ["Figma", "Prototype","Wireframing", "UI/UX", "Site-map"],
+    imageUrl: ecommerceImg,
   },
   {
-    title: "Word Analytics",
+    title: "Amazon-clone",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "A amazon clone using HTML and CSS only , fully responsive.",
+    tags: ["HTML", "CSS", "Figma"],
+    imageUrl: amazoncloneImg,
   },
 ] as const;
 
 export const skillsData = [
-  "HTML",
   "Java",
+  "C++/C",
   "MySQL",
   "Python",
-  "C++/C",
   "FIGMA",
   "HTML",
   "CSS",
+  "UI/UX",
   "JavaScript",
   "Abobe Premier Pro",
   "After Effect",
   "Wireframing",
   "Protoping",
-  "Visual Design",
   "Design",
-  "DSA",
-  "OS",
+  "Data Structure",
   "Tailwind",
 ] as const;
