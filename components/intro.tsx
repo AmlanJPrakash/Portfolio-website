@@ -63,9 +63,8 @@ export default function Intro() {
         initial={{opacity: 0,y:100 }}
         animate={{opacity: 1, y:0}}
         >
-        <span className='font-bold'>Hello Amlan here!</span> I'm currently a <span className='font-bold'>student </span>
-           at SIT, Bhubaneswar.
-        I'm primarily interested in <span className='font-bold'>UI/UX design.</span>
+        <span className='font-bold'>Hello, I'm Amlan.</span> I'm currently a <span className='font-bold'>student .</span>
+        I'm primarily interested in <span className='italic'>Web-development & UI/UX </span> design.
         </motion.p>
 
         <motion.div className='flex flex-col sm:flex-row items-center justify-center gap-2 px-4 

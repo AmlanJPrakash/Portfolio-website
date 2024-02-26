@@ -20,15 +20,18 @@ export default function About() {
     >
         <SectionHeading>About Me</SectionHeading>
         <p className='mb-3'>
-        I'm primarily interested in Java, C,C++ and python.I have worked on several <span className='font-medium'>Web Development</span> projets and 
-        <span className='font-medium'> Machine learning</span> Projets.
+        I have a strong background in <span className='font-bold'>web development and UX design</span>, 
+        having worked on multiple projects in these areas. 
+        My passion lies in <span className='font-medium'> designing </span> and developing 
+        innovative products that push the boundaries of technology.
         </p>
         <p>
-        Technology excites me and I am always in awe of the change it drives in the world.Certain skills that I have worked with include 
-         <span className='font-bold'> Data Structure and Algorithms(Java) , 
-        Web Development, Machine Learning (Python).</span>
-        Outside of Tech, l am an <span className='italic'>video editor</span>  work for several Youtuber ,clubs and institutions.
+         I am constantly <span className='italic'> inspired </span> 
+         by the impact that <span className='font-bold'> technology </span> has on the world and am eager to be a part of driving this change. 
+         In addition to my work in technology, I also<span className='italic'>  freelance as a video editor </span> for various YouTube channels,
+        club and institutions.
         </p>
+        
     </motion.section>
   )
 }
