@@ -20,16 +20,18 @@ export default function About() {
     >
         <SectionHeading>About Me</SectionHeading>
         <p className='mb-3'>
-        I have a strong background in <span className='font-bold'>web development and UX design</span>, 
-        having worked on multiple projects in these areas. 
         My passion lies in <span className='font-medium'> designing </span> and developing 
-        innovative products that push the boundaries of technology.
+        innovative products that push the boundaries of technology. With a creative mindset and a genuine passion for web development, I am driven by the desire to transform outdated products into innovative, user-friendly solutions.
+           I am constantly <span className='italic'> inspired </span> 
+         by the impact that <span className='font-bold'> technology </span> has on the world and am eager to be a part of driving this change. 
+         In addition to my work in technology.
         </p>
         <p>
-         I am constantly <span className='italic'> inspired </span> 
-         by the impact that <span className='font-bold'> technology </span> has on the world and am eager to be a part of driving this change. 
-         In addition to my work in technology, I also<span className='italic'>  freelance as a video editor </span> for various YouTube channels,
-        club and institutions.
+        
+          
+        Design and development give me the authority to not only create but also to solve problems that impact people's lives. I take great pride in delivering solutions that are both aesthetically pleasing and functionally sound. My approach is deeply rooted in research and user testing—I enjoy gathering user feedback and iterating on products to ensure they truly meet the needs of the end-user.
+
+By continually refining my work based on real-world usage and insights, I aim to deliver products that solve genuine problems and offer enhanced user experiences.
         </p>
         
     </motion.section>
