@@ -63,7 +63,7 @@ export default function Intro() {
         initial={{opacity: 0,y:100 }}
         animate={{opacity: 1, y:0}}
         >
-        <span className='font-bold'>Hello, I'm Amlan.</span> I'm currently a <span className='font-bold'>student .</span>
+        <span className='font-bold'>Hello, I'm Amlan.</span>
         I'm primarily interested in <span className='italic'>Web-development & UI/UX </span> design.
         </motion.p>
 
