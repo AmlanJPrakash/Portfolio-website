@@ -35,7 +35,7 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "UI/UX Intern",
+    title: "UI/UX Developer",
     location: "SQUBIX DIGITAL,Bbsr",
     description: "expert in figma, wireframing, prototyping, micro interaction ",
     icon: React.createElement(LuGraduationCap),
@@ -89,20 +89,20 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
+  "User Experience (UX)",
+  "User Interface (UI)",
+  "FIGMA",
+  "Wireframing",
+  "Protoping",
+  "Design Research",
+  "React.js",
   "Java",
   "C++/C",
-  "MySQL",
   "Python",
-  "FIGMA",
   "HTML",
   "CSS",
-  "UI/UX",
   "JavaScript",
   "Abobe Premier Pro",
   "After Effect",
-  "Wireframing",
-  "Protoping",
-  "Design",
-  "Data Structure",
   "Tailwind",
 ] as const;
