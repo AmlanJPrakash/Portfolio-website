@@ -36,7 +36,7 @@ export default function Intro() {
                 
                 >
                     <Image 
-                    src="https://media.licdn.com/dms/image/D5603AQGYT4QeqmHFgA/profile-displayphoto-shrink_800_800/0/1703333904822?e=1727308800&v=beta&t=27BkYXHpaN3zwJK1NEgU0rLyralrH1eqrkwxCsyedBI"
+                    src="https://media.licdn.com/dms/image/v2/D5603AQEnNfP7W9cCvQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728081232399?e=1733961600&v=beta&t=jyyJxL-lSPV9CYzOpEaN6SzUcfcu13AOJcr6HTG7n-c"
                      alt='amlan'
                      width="192"
                      height="192"
