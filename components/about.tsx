@@ -27,10 +27,7 @@ export default function About() {
          In addition to my work in technology.
         </p>
         <p>
-        
-          
         Design and development give me the authority to not only create but also to solve problems that impact people's lives. I take great pride in delivering solutions that are both aesthetically pleasing and functionally sound. My approach is deeply rooted in research and user testing—I enjoy gathering user feedback and iterating on products to ensure they truly meet the needs of the end-user.
-
 By continually refining my work based on real-world usage and insights, I aim to deliver products that solve genuine problems and offer enhanced user experiences.
         </p>
         
