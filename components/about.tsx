@@ -25,7 +25,7 @@ export default function About() {
            I am constantly <span className='italic'> inspired </span> 
          by the impact that <span className='font-bold'> technology </span> has on the world and am eager to be a part of driving this change. 
          In addition to my work in technology.
-        </p>;
+        </p>
         
     </motion.section>
   )
