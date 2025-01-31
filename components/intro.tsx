@@ -1,4 +1,4 @@
-"use client";
+new to yo"use client";
 
 import Image from 'next/image'
 import React, { useEffect } from 'react'
@@ -64,7 +64,7 @@ export default function Intro() {
         animate={{opacity: 1, y:0}}
         >
         <span className='font-bold'>Hello, I'm Amlan.</span>
-        I'm primarily interested in <span className='italic'>Web-development & UI/UX </span> design.
+        If my name is new to you, <span className='italic'>that's part of the charm.</span> I am a UI/UX designer.
         </motion.p>
 
         <motion.div className='flex flex-col sm:flex-row items-center justify-center gap-2 px-4 
